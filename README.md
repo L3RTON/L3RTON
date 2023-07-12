@@ -34,7 +34,7 @@ This part was an absolute nightmare to figure out. Turns out that Githubs extend
 - 👩 I'm a `16` year old male from Italy 🇮🇹
 - 🔭 I’m currently working on [Hyvox]
 - 🌱 I’m currently learning `C#`
-- 💬 Ask me about C#, C++, C, Java.
+- 💬 Ask me about C#, C++, C, Javascript.
 
 <br><br>
 <!--
