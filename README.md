@@ -31,7 +31,7 @@ This part was an absolute nightmare to figure out. Turns out that Githubs extend
 <img align="left" height="150vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
 </div>
 
-- 👩 I'm a `16` year old male from Italy 🇮🇹
+- 👨 I'm a `16` year old male from Italy 🇮🇹
 - 🔭 I’m currently working on [Hyvox]
 - 🌱 I’m currently learning `C#`
 - 💬 Ask me about C#, C++, C, Javascript.
