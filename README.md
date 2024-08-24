@@ -32,7 +32,7 @@ This part was an absolute nightmare to figure out. Turns out that Githubs extend
 </div>
 
 - 👨 I'm a `16` year old male from Italy 🇮🇹
-- 🔭 I’m currently working on [Hyvox]
+- 🔭 I’m currently working on Solis-Firmware for Flipper Zero
 - 🌱 I’m currently learning `C#`
 - 💬 Ask me about C#, C++, C, Javascript.
 
