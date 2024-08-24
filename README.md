@@ -5,9 +5,6 @@ Welcome to my readme source! Glad you made it here. This was a lot of "fun" to w
 <h3 align="center">Just another privacy-focused developer that enjoys playing with new things every day</h3>
 <div align="center">
 
-<!--
-Active in here:
--->  
   <a href="https://steamcommunity.com/id/L3RTON" target="_blank">
     <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" style="margin-bottom: 5px;"/>
   </a>
@@ -22,9 +19,6 @@ Active in here:
 
 ## ⚡️ A Few Quick Facts
 
-<!--
-This part was an absolute nightmare to figure out. Turns out that Githubs extended markdown is scuffed as hell. Left-embedded gifs break everything, so what you see below is the only way to fix it. I seem to be the only one to have even gotten that far.
--->  
 
 <div>
 <img align="left" height="150vh" src="https://media.tenor.com/tNYus4tK5dEAAAAC/anime-computer.gif">
@@ -37,31 +31,26 @@ This part was an absolute nightmare to figure out. Turns out that Githubs extend
 - 💬 Ask me about C#, C++, C, Javascript.
 
 <br><br>
-<!--
-Lets also add a nice spec list bc why not :)
--->
+
 ## 🖥️ My <s>not</s> beautiful Workstation
 
 <details open>
   <summary>Machine Specs</summary>
 
-  - CPU: Intel Core i5 9400F 9th gen.
-  - GPU: Nvidia RTX 2060
-  - RAM: 16GB (2x8GB) Corsair Vengeance LPX C18 3600MHz
+  - CPU: Intel Core i7-12700KF 12th Gen
+  - GPU: Gigabyte Nvidia Geforce RTX 4060 EAGLE OC
+  - RAM: 32GB (4x8GB) Corsair Vengeance LPX C18 3600MHz
   - Case: MSI MPG Gungnir 111R
-  - Cooler: MSI MPG CORELIQUID K240 V2 AIO
-  - Motherboard: MSI B450 Gaming Plus
+  - Cooler: ARCTIC Liquid Freezer III 240
+  - Motherboard: Gigabyte B760M DS3H DDR4
+  - Power Supply: NZXT C850 PSU 850Watt
   - Drives:
-    - Boot: Toshiba MK1234GSX 120GB HDD
+    - Boot: Samsung 990 Pro 1TB SSD
     - Game: TeamGroup T253 1TB NVMe
 
 </details>
 
 <br><br><br>
-
-<!--
-Aaaaaand thats it. Very nice
--->  
 
 <div align="center">  
   <img style="margin: 10px" src="https://cdn.discordapp.com/attachments/1085349080592560169/1097954019248451635/ezgif.com-gif-maker_1.gif" height="25" />  
