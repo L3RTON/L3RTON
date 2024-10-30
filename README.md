@@ -2,7 +2,7 @@
 Welcome to my readme source! Glad you made it here. This was a lot of "fun" to write haha. 
 -->  
 
-<h3 align="center">Just another privacy-focused developer that enjoys playing with new things every day</h3>
+<h3 align="center">Just another fucking disoccupied developer</h3>
 <div align="center">
 
   <a href="https://steamcommunity.com/id/L3RTON" target="_blank">
