@@ -25,7 +25,7 @@ Welcome to my readme source! Glad you made it here. This was a lot of "fun" to w
 <img align="left" height="150vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
 </div>
 
-- 👨 I'm a `16` year old male from Italy 🇮🇹
+- 👨 I'm a `17` year old male from Italy 🇮🇹
 - 🔭 I’m currently working on Solis-Firmware for Flipper Zero
 - 🌱 I’m currently learning `C#`
 - 💬 Ask me about C#, C++, C, Javascript.
