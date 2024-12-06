@@ -28,7 +28,7 @@ Welcome to my readme source! Glad you made it here. This was a lot of "fun" to w
 - 👨 I'm a `17` year old male from Italy 🇮🇹
 - 🔭 I’m currently working on Solis-Firmware for Flipper Zero
 - 🌱 I’m currently learning `C#`
-- 💬 Ask me about C#, C++, C, Javascript.
+- 💬 Ask me about C#, C++, C, Python, Javascript.
 
 <br><br>
 
@@ -37,12 +37,12 @@ Welcome to my readme source! Glad you made it here. This was a lot of "fun" to w
 <details open>
   <summary>Machine Specs</summary>
 
-  - CPU: Intel Core i7-12700KF 12th Gen
-  - GPU: Gigabyte Nvidia Geforce RTX 4060 EAGLE OC
-  - RAM: 32GB (4x8GB) Corsair Vengeance LPX C18 3600MHz
-  - Case: MSI MPG Gungnir 111R
-  - Cooler: ARCTIC Liquid Freezer III 240
-  - Motherboard: Gigabyte B760M DS3H DDR4
+  - CPU: Intel Core i9-12900KF 12th Gen
+  - GPU: Nvidia Geforce RTX 2060
+  - RAM: 32GB (4x8GB) Corsair Vengeance LPX C18 3200MHz
+  - Case: MSI MPG VELOX 100P AIRFLOW
+  - Cooler: ARCTIC Freezer 7X
+  - Motherboard: MSI PRO B760-P DDR4 II
   - Power Supply: NZXT C850 PSU 850Watt
   - Drives:
     - Boot: Samsung 990 Pro 1TB SSD
