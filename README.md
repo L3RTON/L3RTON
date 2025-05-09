@@ -32,20 +32,20 @@ Welcome to my readme source! Glad you made it here. This was a lot of "fun" to w
 
 <br><br>
 
-## 🖥️ My <s>not</s> beautiful Workstation
+## 🖥️ My <s>beautiful</s> Workstation
 
 <details open>
   <summary>Machine Specs</summary>
 
   - CPU: Intel Core i9-12900KF 12th Gen
-  - GPU: Nvidia Geforce RTX 4070 Super
+  - GPU: Nvidia Geforce RTX 2060
   - RAM: 32GB (4x8GB) Corsair Vengeance LPX C18 3200MHz
   - Case: MSI MPG VELOX 100P AIRFLOW
-  - Cooler: ARCTIC Liquid Freezer III 360 A-RGB
+  - Cooler: ARCTIC Freezer 7X
   - Motherboard: MSI PRO B760-P DDR4 II
   - Power Supply: NZXT C850 PSU 850Watt
   - Drives:
-    - Boot: Samsung 990 Pro 1TB NVMe
+    - Boot: Samsung 990 Pro 1TB SSD
     - Game: TeamGroup T253 1TB NVMe
 
 </details>
