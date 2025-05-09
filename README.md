@@ -38,14 +38,14 @@ Welcome to my readme source! Glad you made it here. This was a lot of "fun" to w
   <summary>Machine Specs</summary>
 
   - CPU: Intel Core i9-12900KF 12th Gen
-  - GPU: Nvidia Geforce RTX 2060
+  - GPU: Nvidia Geforce RTX 4070
   - RAM: 32GB (4x8GB) Corsair Vengeance LPX C18 3200MHz
   - Case: MSI MPG VELOX 100P AIRFLOW
-  - Cooler: ARCTIC Freezer 7X
+  - Cooler: ARCTIC Liquid Freezer III 360
   - Motherboard: MSI PRO B760-P DDR4 II
   - Power Supply: NZXT C850 PSU 850Watt
   - Drives:
-    - Boot: Samsung 990 Pro 1TB SSD
+    - Boot: Samsung 990 Pro 1TB NVMe
     - Game: TeamGroup T253 1TB NVMe
 
 </details>
