@@ -17,7 +17,7 @@ Welcome to my readme source! Glad you made it here. This was a lot of "fun" to w
   <img style="margin: 10px" src="https://cdn.discordapp.com/attachments/1085349080592560169/1097954019248451635/ezgif.com-gif-maker_1.gif" height="25" />  
 </div>
 
-## ⚡️ Quick Facts
+## ⚡️Quick Facts
 
 
 <div>
