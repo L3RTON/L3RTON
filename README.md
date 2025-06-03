@@ -21,7 +21,7 @@ Welcome to my readme source! Glad you made it here. This was a lot of "fun" to w
 
 
 <div>
-<img align="left" height="160vh" src="https://cdn.discordapp.com/attachments/795303574598451241/1365054409838690325/2025-04-06_16-58-06.gif?ex=682841bc&is=6826f03c&hm=ba45fd765829b464885d6123abc241636d3f5f87ec8153940b345e8eec73d51e&">
+<img align="left" height="160vh" src="https://cdn.discordapp.com/attachments/795303574598451241/1365054409838690325/2025-04-06_16-58-06.gif?ex=683ffcbc&is=683eab3c&hm=893109abe966c8a47cffa96c7a59966f8cab7c2a303428e6f1635b8fb9dd98d2&">
 <img align="left" height="150vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
 </div>
 
