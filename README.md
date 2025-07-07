@@ -28,7 +28,7 @@ Welcome to my readme source! Glad you made it here. This was a lot of "fun" to w
 - 👨 I'm a `17` year old male from Italy 🇮🇹
 - 🔭 I’m currently working on Solis-Firmware for Flipper Zero
 - 🌱 I’m currently learning `Java`
-- 💬 Ask me about C#, C++, C, Python, Javascript, Java.
+- 💬 Ask me about C#, C++, Javascript, Java.
 
 <br><br>
 
